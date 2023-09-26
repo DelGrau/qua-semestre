@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "f68d452643a683dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "935fbbe676784c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d830fa38e5c80a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/Endereçamento IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7933caab1754dd8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/Exercicios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf46154ef1acaad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "038c158ed9a458e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0c4a7ae829d406c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37b2cbba702d8242",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78bb8634c98c81a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16b0fcc37f5cecbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccbbd6f86adda8d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d506ae1c0f03510d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redes/Exercicios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8234d30fa86ce9af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redes/Exercicios.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7dbed35ed6052f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c85a52c23afa1d21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redes/Exercicios.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7933caab1754dd8e",
+  "lastOpenFiles": [
+    "Redes/Sub-Redes.md",
+    "Redes/Endereçamento IP.md",
+    "Engenharia de Software II/Diagrama de Sequencia e Diagrama de Colaboração.md",
+    "Engenharia de Software II/images/Diagrama de Sequência 3.jpeg",
+    "Engenharia de Software II/images/Diagrama de.jpeg",
+    "Engenharia de Software II/images/WhatsApp Image 2023-09-20 at 22.21.50.jpeg",
+    "Engenharia de Software II/images/Diagrama de Sequência 2.png",
+    "Engenharia de Software II/Multiplicidade e Cardinalidade.md",
+    "Redes/Camada de Enlace.md",
+    "Redes/Vagrant.md",
+    "Engenharia de Software II/images/Diagrama de Sequência.png",
+    "Engenharia de Software II/images/Diagrama de Colaboração.png",
+    "Engenharia de Software II/Engenharia de Software.md",
+    "Dispositivos Moveis/AndroidStudio/Trabalho Bimestral - Dispositivos Moveis.md",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/src/main/java/com/example/exemploactivity/CadastroTurmasActivity.java~",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/src/main/java/com/example/exemploactivity/modelo/Turma.java",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/src/main/java/com/example/exemploactivity/modelo/Professor.java",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/src/main/java/com/example/exemploactivity/modelo/Disciplina.java",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/src/main/java/com/example/exemploactivity/modelo/Aluno.java",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.webp",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.webp",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.webp",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.webp",
+    "Engenharia de Software II/Atividade 17-08-2023.md",
+    "Engenharia de Software II/!Associação Unaria.jpeg.md",
+    "Dispositivos Moveis/Ciclo das Activities.md",
+    "Redes/Camada Física.md",
+    "Engenharia de Software II/Diagrama de Classes II.md",
+    "Dispositivos Moveis/Loja de Aplicativos.md",
+    "Redes/Introdução.md",
+    "Interfaces/Design de Interfaces Humano-Computador.md",
+    "Redes/MODELO TCP IP - CAMADA DE APLICAÇÃO.md",
+    "Dispositivos Moveis/AndroidStudio/ExemploActivities_Todo.md",
+    "Dispositivos Moveis/AndroidStudio/Untitled.md",
+    "Engenharia de Software II/Atividade 30-08-2023.md",
+    "Engenharia de Software II/Introdução.md",
+    "Engenharia de Software II/Diagrama de Classes.md",
+    "Interfaces/Trabalhos/Trabalho 1.md",
+    "Interfaces/Trabalhos/Untitled.md",
+    "Interfaces/Figma.md",
+    "Interfaces/IHC l.md"
+  ]
+}
