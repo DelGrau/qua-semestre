@@ -10,26 +10,26 @@ public class Item {
     }
 
     public int getCodigo() {
-        return this.codigo;
+    return this.codigo;
     }
 
     public void setCodigo(int codigo) {
-        this.codigo = codigo;
+    this.codigo = codigo;
     }
 
     public String getDescricao() {
-        return this.descricao;
+    return this.descricao;
     }
 
     public void setdescricao(String descricao) {
-        this.descricao = descricao;
+    this.descricao = descricao;
     }
-	
-	public double getVlUnitario() {
-        return this.vlUnitario;
+
+    public double getVlUnitario() {
+    return this.vlUnitario;
     }
 
     public void setVlUnitario(double vlUnitario) {
-        this.vlUnitario = vlUnitario;
+    this.vlUnitario = vlUnitario;
     }
 }

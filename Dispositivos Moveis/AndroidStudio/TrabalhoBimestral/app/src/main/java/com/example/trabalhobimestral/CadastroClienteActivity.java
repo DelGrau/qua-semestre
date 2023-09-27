@@ -34,7 +34,7 @@ public class CadastroClienteActivity extends AppCompatActivity {
     private void salvarCliente() {
 		
         int cpf;
-		
+
         if(edCpfCliente.getText().toString().isEmpty()) {
             edCpfCliente.setError("O CPF deve ser informado!");
             return;
@@ -46,7 +46,7 @@ public class CadastroClienteActivity extends AppCompatActivity {
                 return;
             }
         }
-		
+
         if(edNomeCliente.getText().toString().isEmpty()) {
             edNomeCliente.setError("O Nome deve ser informado!");
             return;

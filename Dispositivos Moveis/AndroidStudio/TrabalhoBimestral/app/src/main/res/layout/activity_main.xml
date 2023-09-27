@@ -15,28 +15,94 @@
         android:layout_gravity="center"
         android:layout_margin="10dp"/>
 
-    <Button
+    <!--  Clientes  -->
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Cadastrar Cliente"
-        android:layout_margin="20dp"
-        android:id="@+id/btCadastrarCliente"/>
+        android:orientation="horizontal">
 
-    <Button
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Cadastrar Cliente"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/btCadastrarCliente"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Lista de Clientes"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:id="@+id/btListaClientes"/>
+
+    </LinearLayout>
+
+    <!--  Items  -->
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Cadastrar Item"
-        android:layout_margin="20dp"
-        android:id="@+id/btCadastrarItem"/>
+        android:orientation="horizontal">
 
-    <Button
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Cadastrar Item"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/btCadastrarItem"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Lista de Items"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:id="@+id/btListaItems"/>
+
+    </LinearLayout>
+
+    <!--  Pedidos  -->
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Novo Pedido"
-        android:layout_margin="20dp"
-        android:id="@+id/btNovoPedido"/>
+        android:orientation="horizontal">
 
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Novo Pedido"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/btNovoPedido"/>
 
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Lista de Pedidos"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:id="@+id/btListaPedidos"/>
 
+    </LinearLayout>
 
 </LinearLayout>

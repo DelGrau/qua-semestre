@@ -36,9 +36,9 @@ tela.
 
 # Lista de Itens a Fazer
 
-- [ ] Tela para cadastrar cliente.
-	- [ ] Informar nome
-	- [ ] Informar CPF
+- [x] Tela para cadastrar cliente.
+	- [x] Informar nome
+	- [x] Informar CPF
 
 - [ ] Tela para cadastrar itens a venda
 	- [ ] Código

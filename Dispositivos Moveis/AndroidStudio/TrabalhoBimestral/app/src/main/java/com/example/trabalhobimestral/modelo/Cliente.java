@@ -20,7 +20,7 @@ public class Cliente {
         return this.nome;
     }
 
-    public void setNome(String nome) {
+public void setNome(String nome) {
         this.nome = nome;
     }
 }
